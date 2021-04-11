@@ -1,0 +1,12 @@
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\bin\Debug\nunit.framework.dll
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\bin\Debug\nunit.framework.xml
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CopyComplete
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\bin\Debug\chromedriver.exe
+C:\Users\stikheeva\csharp\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojAssemblyReference.cache
